@@ -1,0 +1,13 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Build outputs
+build/
+2cape.app/
+*.cape
+
+# Temporary / OS files
+*.tmp
+*.log
